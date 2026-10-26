@@ -1,11 +1,11 @@
 /*
- * LUMA DEMO CONFIGURATION
+ * DEMO CONFIGURATION
  * Replace these values when adapting this demo for a real salon. Service prices
  * are used directly by the website, so update them here rather than in the HTML.
  */
 window.SALON_CONFIG = {
-  brandName: 'Luma Beauty Studio',
-  brandPrimary: 'Luma',
+  brandName: 'Beauty Studio',
+  brandPrimary: 'Demo',
   brandSecondary: 'Beauty Studio',
   location: 'Adama, Oromia, Ethiopia',
   mapQuery: 'Adama, Oromia, Ethiopia',
